@@ -1,8 +1,8 @@
 # fat-jar-with-jcp
 
 Project demonstrates 2 variants of build of fat jar with JCP 2.0-A (java cryptographic provider with GOST support) inside:
-* build.gradle
-* apache maven
+* gradle
+* maven
 
 Project can be open in Intellij IDEA IDE as gradle or maven project.
 
