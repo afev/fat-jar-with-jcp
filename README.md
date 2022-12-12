@@ -24,7 +24,7 @@ The service uses GOST R 34.11-2012 from JCP.
 
 Project can be build by 'assemble' with gradle or 'package' with maven.
 
-Both variants of build finally produces a spring service that allowes to digest some data sending GET request:
+Both variants of build finally produce a spring service that allows to digest some data sending GET request:
 ```
 http://localhost:8080/v1/digest/123456
 ```
