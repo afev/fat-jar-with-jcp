@@ -4,7 +4,8 @@ Project demonstrates 2 variants of build of fat jar with JCP 2.0-A (java cryptog
 * gradle
 * maven
 
-Project can be open in Intellij IDEA IDE as gradle or maven project.
+Project is based on Java 10+. 
+It can be open in Intellij IDEA IDE as gradle or maven project.
 
 JCP: https://cryptopro.ru/products/csp/jcp/downloads
 
