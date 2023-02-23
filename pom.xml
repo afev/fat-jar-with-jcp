@@ -55,6 +55,27 @@
             <artifactId>JCP</artifactId>
             <version>2.0-A</version>
         </dependency>
+        <dependency>
+            <groupId>ru.crypto</groupId>
+            <artifactId>AdES-core</artifactId>
+            <version>2.0-A</version>
+        </dependency>
+        <dependency>
+            <groupId>ru.crypto</groupId>
+            <artifactId>CAdES</artifactId>
+            <version>2.0-A</version>
+        </dependency>
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcprov-jdk15on</artifactId>
+            <version>1.60</version>
+        </dependency>
+        <dependency>
+            <groupId>org.bouncycastle</groupId>
+            <artifactId>bcpkix-jdk15on</artifactId>
+            <version>1.60</version>
+        </dependency>
+
     </dependencies>
 
     <build> 

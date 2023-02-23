@@ -3,6 +3,7 @@ package org.example;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import ru.CryptoPro.CAdES.tools.CAdESUtility;
 import ru.CryptoPro.JCP.JCP;
 import java.security.Security;
 
@@ -16,5 +17,6 @@ public class DemoApplication {
         // Security.addProvider(new CryptoProvider());
         // Security.addProvider(new Provider());
         System.out.println("Providers loaded.");
+        CAdESUtility.initJCPAlgorithms();
     }
 }

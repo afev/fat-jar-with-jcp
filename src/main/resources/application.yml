@@ -1,0 +1,6 @@
+tsp:
+  signature-provider: "JCP"
+  key-store-provider: "JCP"
+  key-store-type: "HDImageStore"
+  key-alias: "CAdES-archive-2012-tsp"
+  key-password: ""
